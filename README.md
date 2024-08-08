@@ -3,7 +3,7 @@
 ## Description
 12,820,000 sets of parallel translation corpus between China and Korea, which are stored in txt files. It covers many fields including spoken language, traveling, news, and finance. Data cleaning, desensitization, and quality inspection have been carried out. It can be used as the basic corpus database in the text data files as well as used in machine translation.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1200?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/nlu/1200?source=Github
 
 
 # Specifications
